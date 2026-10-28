@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:pink;color:blue">
+<h1>Why you shouldn't bully people for what they do for fun: a comprehensive list</h1>
+<ul style="text-align:center;">
+<li>It's mean</li>
+<li>It's sad</li>
+<li>There are better things to make fun of people for</li>
+</ul>
+<img src="colorful-duh-text-illustration-upoe0ecolzb0jpm5.jpg" width=200 height=144 alt="colorful image with duh displayed in bold letters"">
+<p> What you could do instead is make fun of there height.<br>for example.<br><i>you</i> are <b>short</b>.</p>
+<h3>	&#128513;</h3>
+<p>Yes I did make this just so i could bully you for being <span style="border:5px solid purple"><b>short</b></span> <br> ...<br>Ahem</p>
+<h2>	&#128513;</h2>
+<p>You're so short I look at you and feel sad for you and your shortness</p>
+<h1>	&#128513;</h1>
+<button>Press if you are shot</button>
+<p>The button doesn't work because I don't know how to code that yet but uh<a href="https://media.tenor.com/5uyJW6kTxWIAAAAM/flower-flower-mouse.gif"> THIS</a> is how I see you</p>
+</body>
+</html>
